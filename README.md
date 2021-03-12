@@ -5,10 +5,10 @@
 * C++
 * Go
 * Kotlin
-* * C
+* C
 * Python
-* * Learning Java
-* Learning Kotlin
+* Java
+* Kotlin
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pohui&hide=pawn&langs_count=8&layout=compact)
 
