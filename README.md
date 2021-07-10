@@ -1,19 +1,6 @@
-~~**Status:** ~~
 
-~~**Interested in**~~
-~~* C#~~
-~~* C++~~
-~~* Go~~
-~~* Kotlin~~
-~~* C~~
-~~* Python~~
-~~* Java~~
-~~* Kotlin~~
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pohui&hide=pawn&langs_count=8&layout=compact)
 
-
-
-
-### Contact
-[TODO]
+![trophy](https://github-profile-trophy.vercel.app/?username=pohui&theme=onedark&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=pohui)
