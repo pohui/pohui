@@ -26,7 +26,7 @@
 <h3 align='center'><b>Support Me</b></h3>
 <br>
 <p align='center'><a href="https://www.buymeacoffee.com/pohui"> <img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png" height="50" width="210" alt="pohui" /></a>
-<p align='center'><a align='center' href="https://www.petreon.com/pohui"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Patreon_logo_with_wordmark.svg" height="50" width="210" alt="pohui" /></a>
+<p align='center'><a align='center' href="https://www.patreon.com/pohui"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Patreon_logo_with_wordmark.svg" height="50" width="210" alt="pohui" /></a>
 <p align='center'><a align='center' href="https://flattr.com/@pohui"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flattr.svg" height="50" width="210" alt="pohui" /></a></p>
 <p align='center'><a align='center' href="https://ko-fi.com/pohui"> <img src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" height="50" width="210" alt="pohui" /></a>
 
