@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pohui&show_icons=true&locale=en&theme=flag-india" alt="pohui" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pohui&show_icons=true&locale=en&layout=compact&theme=buefy" alt="pohui" /></p>
 <details>
-<summary><b>Tropy</b></summary>
+<summary><b>Trophy</b></summary>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pohui&theme=discord" alt="pohui" /></a></p>
  </details>
 <details>
